@@ -3,13 +3,17 @@ where testing requirements keep changing according to customer needs.
 It is done parallel to the development activity 
 where the testing team receives frequent small codes from the development team for testing.
 
+Agile process everyone can contribute ,everyone is work under one roof.developer and tester work together.
 
-Burn-up and burn-down charts are used to keep track of the progress of the project.
+Burn-up and burn-down charts both  used to keep track of the progress of the project.
 Burn-up charts represent how much work has been completed in any project
  whereas Burn-down chart represents the remaining work in a project.
  
  Sprint -zero :It can be defined as a pre-preparation step to the first sprint.
  Activities like setting development environment,
  preparing backlog, etc need to be done before starting the first sprint and can be treated as Sprint zero.
+<<<<<<< HEAD
 
 Epic backlog:   all the stories called epic backlog for one epic.
+=======
+>>>>>>> d6b0a824490eeab57ec67d71da059c25853602d8
