@@ -1,0 +1,8 @@
+Dependency we use on maven project for bdd
+
+1.Cucumber-java
+2.cucumber-jvm
+3.cucumber-junit
+4.cucumber-reporting
+5.gherkin
+6.junit

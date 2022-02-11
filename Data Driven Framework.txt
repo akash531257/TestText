@@ -1,0 +1,10 @@
+Data-Driven Framework: In data-driven frameworks,
+ test data is separated from test scripts and 
+ stored in an external resource such as text file,
+ excel spreadsheet, CSV file or database table.
+ 
+  In keyword driven frameworks, the test logic is divided into keywords and functions. A sequence of keywords
+  is used to define the test scripts and these keywords are further defined as functions to implement the desired behaviour.
+  
+  Testlink,TestRail,Jira is used to write test cases.
+  

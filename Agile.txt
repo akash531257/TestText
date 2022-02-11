@@ -1,0 +1,13 @@
+Agile is methodology in testing QA follows in a dynamic environment 
+where testing requirements keep changing according to customer needs.
+It is done parallel to the development activity 
+where the testing team receives frequent small codes from the development team for testing.
+
+
+Burn-up and burn-down charts are used to keep track of the progress of the project.
+Burn-up charts represent how much work has been completed in any project
+ whereas Burn-down chart represents the remaining work in a project.
+ 
+ It can be defined as a pre-preparation step to the first sprint.
+ Activities like setting development environment,
+ preparing backlog, etc need to be done before starting the first sprint and can be treated as Sprint zero.

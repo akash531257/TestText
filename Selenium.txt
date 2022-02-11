@@ -1,0 +1,29 @@
+Locators:  By  ..ID,Name,xpath,cssselector,tagname
+
+Maven is build tool. biggest advantage is it's dependency.you dont need to maintain jar files. easy to integrate with jenkins
+
+Alert- accept method,dismiss method and getstring method
+
+rest vs soap api---soap only works for xml files. on other side, rest works for xml,html,json and text files
+
+crosee-browser testing tools--crossbrowsertesting by smartbear,browsershots,eggplant,lambdatest
+
+webdriver is interface
+
+A local variable is a variable declared inside a method body, block or constructor.
+
+ETL testing --extract,transform and load
+
+Junit framework does not support parallel testing(Newer Version Does).  TestNG framework does
+grouping is not available in Junit,  but you can do in TestNG
+
+@Test(timeout=1000)---terminate test if it takes more than 10 seconds
+
+@Test(dependsOnMethods = {"LoginBrowser"})-----dependency test supports only by TestNG
+
+Bug Life Cycle---New,Assign,Open,Fixed,Pending Retest,Retest,Verified--if solved---closed,,,if bug not solved--then Reopen
+
+POM Framewrok--design pattern,
+BDD framework
+
+
