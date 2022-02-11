@@ -1,0 +1,25 @@
+Title
+Summary
+Description
+Environment
+Build
+Browser/Operatin System
+Steps to Reproduce
+Team
+Screenshot
+log
+
+Severity--Person who file the bug-MostlyQA
+sev 0--Critical
+sev-1--Major
+sev-2---Minor
+sev-3---cosmetic
+
+Priority---Product owner decide the priority
+p0---fix this right now,add in current sprint
+p1-fix in this release, next sprint and before release
+p2-fix in next release
+p3--future
+
+
+Priority
